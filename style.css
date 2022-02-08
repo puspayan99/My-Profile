@@ -1,0 +1,18 @@
+body{
+    font-family: 'Prata', serif;
+}
+h1{
+    font-size: 50 px;
+}
+.name-hilight{
+    color: orangered;
+}
+.sec_1{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 5px;
+}
+.sec_1 img{
+    width: 100%;
+}
